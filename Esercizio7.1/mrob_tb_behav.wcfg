@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mrob_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="mrob_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="611.527 ns"></ZoomStartTime>
+      <ZoomEndTime time="722.019 ns"></ZoomEndTime>
+      <Cursor1Time time="680.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="174"></NameColumnWidth>
+      <ValueColumnWidth column_width="175"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/mbooth_tb/inputx" type="array">
+      <obj_property name="ElementShortName">inputx[7:0]</obj_property>
+      <obj_property name="ObjectShortName">inputx[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/inputy" type="array">
+      <obj_property name="ElementShortName">inputy[7:0]</obj_property>
+      <obj_property name="ObjectShortName">inputy[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/prod" type="array">
+      <obj_property name="ElementShortName">prod[15:0]</obj_property>
+      <obj_property name="ObjectShortName">prod[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/res" type="logic">
+      <obj_property name="ElementShortName">res</obj_property>
+      <obj_property name="ObjectShortName">res</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/t_stop_cu" type="logic">
+      <obj_property name="ElementShortName">t_stop_cu</obj_property>
+      <obj_property name="ObjectShortName">t_stop_cu</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/uut/UO/ADD_SUB/X" type="array">
+      <obj_property name="ElementShortName">X[7:0]</obj_property>
+      <obj_property name="ObjectShortName">X[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/uut/UO/ADD_SUB/Y" type="array">
+      <obj_property name="ElementShortName">Y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/uut/UC/current_state" type="other">
+      <obj_property name="ElementShortName">current_state</obj_property>
+      <obj_property name="ObjectShortName">current_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mbooth_tb/uut/UC/count" type="array">
+      <obj_property name="ElementShortName">count[3:0]</obj_property>
+      <obj_property name="ObjectShortName">count[3:0]</obj_property>
+   </wvobject>
+</wave_config>
