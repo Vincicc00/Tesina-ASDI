@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mrob_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="mrob_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="611.527 ns"></ZoomStartTime>
+      <ZoomEndTime time="722.019 ns"></ZoomEndTime>
+      <Cursor1Time time="680.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="174"></NameColumnWidth>
+      <ValueColumnWidth column_width="175"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/SistemaAB_tb/WR" type="logic">
+      <obj_property name="ElementShortName">inizia</obj_property>
+      <obj_property name="ObjectShortName">inizia</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SistemaAB_tb/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SistemaAB_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SistemaAB_tb/sistema_AB/b/memoria/memory" type="other">
+      <obj_property name="ElementShortName">memoria</obj_property>
+      <obj_property name="ObjectShortName">memoria</obj_property>
+   </wvobject>
+  
+</wave_config>
